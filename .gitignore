@@ -1,8 +1,8 @@
 /target
 /Cargo.lock
 
-./C/chunk-reader/.idea
-./C/chunk-reader/build
-./C/chunk-reader/cmake-build-debug
-./C/chunk-reader/cmake-build-release
+/C/chunk-reader/.idea
+/C/chunk-reader/build
+/C/chunk-reader/cmake-build-debug
+/C/chunk-reader/cmake-build-release
 
