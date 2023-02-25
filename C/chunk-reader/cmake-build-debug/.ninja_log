@@ -1,9 +1,0 @@
-# ninja log v5
-0	25	1677300719957972136	CMakeFiles/chunk-reader.dir/src/chunk-reader.c.o	b4a9cad07c3cf63a
-21	33	1677300780449820329	main	5c568bb390fcfd8
-25	86	1677300720021971973	lib/libchunk-reader.a	63bf09b26b4fa310
-0	21	1677300780429820378	CMakeFiles/main.dir/src/main.c.o	86685689c1936255
-1	25	1677332722376662520	CMakeFiles/chunk-reader.dir/src/chunk-reader.c.o	6d557c1aa68e1268
-25	51	1677332722404662453	lib/libchunk-reader.a	63bf09b26b4fa310
-0	22	1677332722560662082	CMakeFiles/main.dir/src/main.c.o	c673ab8b1a45c44e
-22	35	1677332722580662034	main	5c568bb390fcfd8

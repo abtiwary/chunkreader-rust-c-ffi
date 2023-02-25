@@ -1,2 +1,0 @@
-/usr/bin/ar qc lib/libchunk-reader.a CMakeFiles/chunk-reader.dir/src/chunk-reader.c.o
-/usr/bin/ranlib lib/libchunk-reader.a

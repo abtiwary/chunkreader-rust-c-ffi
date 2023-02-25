@@ -1,4 +1,0 @@
-/home/pimeson/Development/RustDev/ChunkReader/chunk-reader-sys/C/chunk-reader/build/CMakeFiles/chunk-reader.dir
-/home/pimeson/Development/RustDev/ChunkReader/chunk-reader-sys/C/chunk-reader/build/CMakeFiles/main.dir
-/home/pimeson/Development/RustDev/ChunkReader/chunk-reader-sys/C/chunk-reader/build/CMakeFiles/edit_cache.dir
-/home/pimeson/Development/RustDev/ChunkReader/chunk-reader-sys/C/chunk-reader/build/CMakeFiles/rebuild_cache.dir
