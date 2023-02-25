@@ -1,0 +1,1 @@
+/usr/bin/cc -Iinclude -fPIC -Wall -rdynamic CMakeFiles/main.dir/src/main.c.o -o main  lib/libchunk-reader.a -lc 
